@@ -26,7 +26,7 @@ cat readme
 
 The file contained the password for **Level 1**.
 
-> **Password:** `[REDACTED]`
+> **Password:** FIND BY YOURSELF
 
 ### What I learned
 
